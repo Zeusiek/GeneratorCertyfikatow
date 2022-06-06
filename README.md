@@ -1,5 +1,5 @@
 # GeneratorCertyfikatow
-![alt text](http://url/to/img.png](http://url/to/img.png](https://img.shields.io/badge/POWERED%20WITH-JAVA-blue?style=for-the-badge)
+![alt text]([http://url/to/img.png](http://url/to/img.png](https://img.shields.io/badge/POWERED%20WITH-JAVA-blue?style=for-the-badge](https://img.shields.io/badge/POWERED%20WITH-JAVA-blue?style=for-the-badge))
 
  Program służący do generowania certyfiatów.
  
